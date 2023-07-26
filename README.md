@@ -35,7 +35,7 @@ Esse relatório visa fornecer uma base para tomada de decisões informadas, otim
 
 --- 
  
-Link do meu trabalho no Colab:https://colab.research.google.com/drive/1jt3miQxc48YBA0nvd6IzJJ_vt9dFkCpF
+Link do meu trabalho no [Colab](https://colab.research.google.com/drive/1jt3miQxc48YBA0nvd6IzJJ_vt9dFkCpF) 
 assim facilitando o acesso.
 
 ---
@@ -43,4 +43,4 @@ assim facilitando o acesso.
 # Sobre Mim
 
 Rodrigo Marques 
-https://www.linkedin.com/in/rodrigo-marques021/
+[Linkedin](https//www.linkedin.com/in/rodrigo-marques021/)
